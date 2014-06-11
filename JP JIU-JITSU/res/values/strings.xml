@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">JP JIU-JITSU Admin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_admin">Admin Functions</string>
+    <string name="admin_choose">Choose one from below:</string>
+    <string name="button_addhours">Add Hours</string>
+    <string name="button_addstudent">Add Student</string>
+    <string name="title_activity_add_student">Add Student</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_rank">Rank</string>
+    <string name="text_stripe">Stripe</string>
+    <string name="text_email">Email</string>
+    <string name="enter">Enter the following</string>
+    <string name="button_proceed">Scan Barcode &gt;</string>
+    <string name="button_back">&lt; Back</string>
+    <string name="title_activity_choose_hours_add_type">Add Hours</string>
+    <string name="button_autoadd">Auto Add</string>
+    <string name="button_manualadd">Manual Add</string>
+    <string name="title_activity_recent_class">RecentClass</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_barcode">Barcode</string>
+    <string name="text_choose_class">Choose a class from below and proceed to Student Barcode scan</string>
+    <string name="title_activity_manual_add">Add Hours Manually</string>
+    <string name="choose_hours">Choose hours</string>
+    <string name="text_description">Enter Description</string>
+    <string name="title_activity_promotion">Student List</string>
+    <string name="text_enter_student_name">Enter Student Name</string>
+    <string name="text_select_student">Select a student from the list below</string>
+    <string name="button_promote">Promote Student</string>
+    <string name="title_activity_promote_student">Promote Student</string>
+    <string name="text_student_details">Student Details</string>
+    <string name="text_last_promotion_date">Last Promotion Date</string>
+    <string name="text_name">Name</string>
+    <string name="text_phone">Phone Number</string>
+    <string name="text_caution">Clicking the below button would add JP Jiu Jitsu Schedule to your google calendar synced in the mobile device. If schedule is already populated please dont click the below button to avoid duplicates!!</string>
+    <string name="text_add_events">Add events to calendar</string>
+    <string name="text_populate">Click this button to populate events to calendar</string>
+    <string name="button_addevents">Add Events</string>
+    <string name="title_activity_edit_student">Edit Student</string>
+    <string name="text_remove_student">Delete Record</string>
+    <string name="text_save_changes">Save Changes</string>
+    <string name="text_edit_student">Edit Student Records</string>
+    <string name="title_activity_view_progress">View Progress</string>
+    <string name="text_status"></string>
+
+</resources>

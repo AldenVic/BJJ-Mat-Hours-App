@@ -1,0 +1,6 @@
+1. Stripes are 0-4, not 1-4 - Admin
+2. No need for Black and Red, and Red belt. Those people aren't going to use this. :) - Admin
+3. Need to revisit Ranks table. Change to Belt Hash Key and Stripes Range Key instead of Rank ID (reduce throughput needed and easier to query) - DynamoDB
+4. Change CurrentRank in student to Belt/Stripe columns (easier to interact with new Ranks table). - Both
+5. Change Manual Add to a textbox instead of dropdown. (Easier to enter a new student that way, since he will probably have previous mat hours to enter). - Admin
+6. Refresh profile data when refreshing data set - Student

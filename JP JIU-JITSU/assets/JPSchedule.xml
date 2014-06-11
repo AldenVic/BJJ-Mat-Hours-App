@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+<event>
+<eventName>BRAZILIAN JIU-JITSU (SITUATIONAL)</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>2</eventStartTime>
+<eventEndTime>3</eventEndTime>
+</event>
+<event>
+<eventName>BRAZILIAN JIU-JITSU (SITUATIONAL)</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>6</eventStartTime>
+<eventEndTime>7.5</eventEndTime>
+</event>
+<event>
+<eventName>EVOLVE XTFIT S &amp; C TRAINING</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>7.5</eventStartTime>
+<eventEndTime>8.5</eventEndTime>
+</event>
+<event>
+<eventName>EVOLVE XTFIT S &amp; C TRAINING</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>17</eventStartTime>
+<eventEndTime>18</eventEndTime>
+</event>
+<event>
+<eventName>COMBAT/SPORT SAMBO (100 LESSONS CURRICULUM)</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>17</eventStartTime>
+<eventEndTime>18</eventEndTime>
+</event>
+<event>
+<eventName>BRAZILIAN JIU-JITSU (SITUATIONAL)</eventName>
+<eventDay>friday</eventDay>
+<eventStartTime>18</eventStartTime>
+<eventEndTime>19.5</eventEndTime>
+</event>
+</schedule>
